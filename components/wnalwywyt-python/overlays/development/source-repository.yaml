@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wnalwywyt-python-repository
+spec:
+  url: https://github.com/xjiangorg/wnalwywyt-python
